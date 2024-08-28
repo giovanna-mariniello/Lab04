@@ -12,7 +12,6 @@ class Dictionary:
 
     def printAll(self):
         for value in self._dict:
-
             print(f" {value}")
 
 
